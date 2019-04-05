@@ -1,0 +1,12 @@
+well field1 garden nil lounge library nil nil nil nil
+cottage field2 mansionDoor mansionLobby hall1 hall2 backYard backYard2 nil nil
+nil nil nil nil diningHall kitchen nil gate nil nil
+nil nil nil nil nil nil nil nil nil nil
+nil nil nil nil nil nil nil nil nil nil
+nil nil nil nil nil nil nil nil nil nil
+nil nil nil nil nil nil nil nil nil nil
+nil nil nil nil nil nil nil nil nil nil
+nil nil nil nil nil nil nil nil nil nil
+nil nil nil nil nil nil nil nil nil nil
+well
+gate

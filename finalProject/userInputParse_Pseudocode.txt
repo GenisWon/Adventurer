@@ -1,0 +1,7 @@
+Program gets line of user input
+Input is transformed to lowercase for proper comparison
+Program reads from txt file to determine what verb is used
+The same is done for the noun
+Errors are caught and display an invalid input prompt
+
+Every verb is on its own line, with the primary verb the first. Words separated by spaces.

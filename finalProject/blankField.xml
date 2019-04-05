@@ -1,0 +1,59 @@
+<world>
+  <field id="well">
+    <text>In front of you is placed a well, deep and dark.</text>
+  </field>
+  <field id="cottage">
+    <text>A thatch roofed cottage lays before you. It has been vacant for years.</text>
+  </field>
+  <field id="field1">
+    <text>You stand in a quite plain field, few trees spread far apart. Incredibly un-scenic.</text>
+  </field>
+  <field id="field2">
+    <text>The area you stand in is quite empty. To the east you see a mansion, abandoned years ago.</text>
+  </field>
+  <field id="garden" holding="vase">
+    <text>Wildflowers have consumed the garden, however a few flowers continue to grow in a vase. An object shines from the vase.</text>
+     <object id="vase" parent="garden" holding="key">
+      <text>A shining key is poking out of the top.</text>
+    </object>
+  </field>
+  <house id="mansionDoor">
+    <text>You stand in front of the porch of a mansion. The door to the east is mahogany, and the handle is pure gold. It appears to be locked.</text>
+  </house>
+  <house id="mansionLobby" require="key">
+    <text>Extremely extravagant, yet entirely void of people. To your east you spot a doorway.</text>
+  </house>
+  <house id="lounge">
+    <text>Beautiful paintings fill the walls, lounging chairs and coffee tables cover the floor.</text>
+  </house>
+  <house id="library">
+    <text>Bookshelves stand tall to the ceiling, each filled with hundreds of books.</text>
+  </house>
+  <house id="hall1">
+    <text>A far reaching hallway connects the lounge, the dining hall, and other rooms.</text>
+  </house>
+  <house id="hall2">
+    <text>A narrow hall, pieces the backdoor, the kitchen, and library to the rest of the house.</text>
+  </house>
+  <house id="diningHall">
+    <text>Expansive dining tables crowd the room, with dishes placed methodically placed at each seat.</text>
+  </house>
+  <house id="kitchen">
+    <text>Large, aged kitchen equipment cramps the room. Despite being filthy, there is no food to be found anywhere.</text>
+  </house>
+  <field id="backYard">
+    <text>A seemingly previously well maintained terrace has become a jungle. You see a clear space to the east.</text>
+  </field>
+  <field id="backYard2">
+    <text>The brush becomes increasingly thick, and you've spotted several wild animals at this point. The only path to walk leads to the south.</text>
+  </field>
+  <field id="gate">
+    <text>You have exited the wild and escaped the land. You are free, adventurer.</text>
+  </field>
+
+  <items>
+    <item id="key" location="vase">
+      <text>The key you grabbed is really shiny.</text>
+    </item>
+  </items>
+</world>
